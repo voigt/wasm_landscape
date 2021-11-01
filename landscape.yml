@@ -1,0 +1,68 @@
+landscape:
+  - category:
+    name: Projects
+    subcategories:
+      - subcategory:
+        name: Spec
+        items:
+          - item:
+            name: WebAssembly Spec
+            homepage_url: https://webassembly.org/specs/
+            project: foundationproject
+            repo_url: https://webassembly.github.io/spec/core/
+            logo: graphql.svg
+            crunchbase: https://www.crunchbase.com/organization/bytecode-alliance
+      - subcategory:
+        name: Tools
+        items:
+          - item:
+            name: Apollo Angular
+            homepage_url: https://apollo-angular.com/docs
+            repo_url: https://github.com/kamilkisiela/apollo-angular
+            logo: apollo-angular.svg
+            crunchbase: https://www.crunchbase.com/organization/the-guild-9777
+  - category:
+    name: Runtimes
+    subcategories:
+      - subcategory:
+        name: Databases
+        items:
+          - item:
+            name: Arangodb
+            homepage_url: https://www.arangodb.com/
+            repo_url: https://github.com/arangodb/arangodb
+            logo: arangodb.svg
+            crunchbase: https://www.crunchbase.com/organization/arangodb
+  - category:
+    name: Platforms
+    subcategories:
+      - subcategory:
+        name: Services
+        items:
+          - item:
+            name: 8base
+            homepage_url: https://8base.com
+            logo: 8base.svg
+            crunchbase: https://www.crunchbase.com/organization/8base-2
+  - category:
+    name: Bytecode Alliance Foundation Member
+    subcategories:
+      - subcategory:
+        name: General
+        items:
+          - item:
+            name: Airbnb (member)
+            homepage_url: https://www.airbnb.com
+            logo: airbnb.svg
+            crunchbase: https://www.crunchbase.com/organization/airbnb
+  - category:
+    name: GraphQL Adopter
+    subcategories:
+      - subcategory:
+        name: GraphQL Adopter
+        items:
+          - item:
+            name: 1stdibs (adopter)
+            homepage_url: https://www.1stdibs.com
+            logo: 1stdibs.svg
+            crunchbase: https://www.crunchbase.com/organization/1stdibs
